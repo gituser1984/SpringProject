@@ -1,0 +1,8 @@
+com\infy\userservice\service\UserService.class
+com\infy\userservice\entity\UserDetail.class
+com\infy\userservice\model\Department.class
+com\infy\userservice\repository\UserRepository.class
+com\infy\userservice\model\UserDepartment.class
+com\infy\userservice\UserServiceApplication.class
+com\infy\userservice\controller\UserController.class
+com\infy\userservice\model\UserDepartment$UserDepartmentBuilder.class
